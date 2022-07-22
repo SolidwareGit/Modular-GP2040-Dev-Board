@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PiPico RP2040")(type "KiCad")(uri "${KIPRJMOD}/Libraries/PiPico RP2040/2021-12-15_14-52-23.kicad_sym")(options "")(descr ""))
+  (lib (name "My ADC")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ADS1219IPWR/2022-07-08_14-12-39.kicad_sym")(options "")(descr ""))
+)
